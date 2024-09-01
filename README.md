@@ -3,7 +3,6 @@
 - [Data](#data)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
@@ -38,13 +37,6 @@ The dataset used in this project is sourced from Kaggle and includes various att
 - The decision tree regressor with hyperparameter tuning provided the best performance with an R² score of 0.48.
 - Key factors influencing car prices include kilometers driven, fuel type, mileage, engine power, and owner type.
 - Visualizations and predictive models help in understanding the best options for used cars based on different user requirements.
-
-## Installation
-To run the code in this repository, you'll need to install the following dependencies:
-
-\`\`\`bash
-pip install -r requirements.txt
-\`\`\`
 
 ## Usage
 1. Clone this repository:
