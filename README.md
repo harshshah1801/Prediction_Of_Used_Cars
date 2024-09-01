@@ -1,11 +1,3 @@
-# I'll create the README file as a markdown (.md) file for you.
-
-# Define the content of the README
-readme_content = """
-# Used Car Price Analysis and Prediction
-
-This repository contains the code and documentation for the project **"Analysis and Prediction of Prices of Used Cars"**. This project was completed as part of the course **DS203 Programming for Data Science** at the Indian Institute of Technology Bombay in 2022.
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data](#data)
